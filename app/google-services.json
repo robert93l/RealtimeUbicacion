@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "851375065595",
+    "project_id": "ubicacion-2692c",
+    "storage_bucket": "ubicacion-2692c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851375065595:android:afa53e8a21110948e0a35e",
+        "android_client_info": {
+          "package_name": "com.example.realtimeubicacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851375065595-vo66rt8ks2t739guquc11jn8t9ttvvra.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.realtimeubicacion",
+            "certificate_hash": "89e157f2dbca99ef11e96bd16f820447811dfea5"
+          }
+        },
+        {
+          "client_id": "851375065595-2q1t309dplgdv641ftboo1cbqqorks11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFsik0VFBsrfObECmocpMa0pSGbaNc9H4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851375065595-2q1t309dplgdv641ftboo1cbqqorks11.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
